@@ -1,0 +1,71 @@
+{
+"contactEmail": "myemail@example.com",
+"contactPhone": 5553552555,
+"coversPicturesPaths": [
+  "coverPictures/cover.jpg",
+  "https://www.shutterstock.com/shutterstock/photos/1883859943/display_1500/stock-photo-the-word-example-is-written-on-a-magnifying-glass-on-a-yellow-background-1883859943.jpg",
+  "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/280643837_5555982321079661_2455878188961600545_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ocNmrjjpNXkQ7kNvgEfYY1v&_nc_ht=scontent-iad3-2.xx&oh=00_AfATA7po7mfoUIsWqdBLy_CQMQCL9w_P7v2PB_Ada3w1_A&oe=663A7E62",
+  "https://scontent-iad3-2.xx.fbcdn.net/v/t1.18169-9/10625093_900076433336963_4158575970514908682_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jMXs7WmKnA8Q7kNvgGcDn5u&_nc_ht=scontent-iad3-2.xx&oh=00_AfCDmi903YBv6tZiKNqxNWOZGho1WWNJQc9bZZ8n61Hr9Q&oe=665C1A6D",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/439442540_8188970611117734_7751207571857603815_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4UBKoDwn0EQQ7kNvgE4I9iL&_nc_ht=scontent-iad3-1.xx&oh=00_AfA38C4H3YUkx9z2d5a_ql2MP7vqPIn5LtzHEGS3N-x7Iw&oe=663A6DC5",
+  "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/439263983_8167036709977791_3769118961290508246_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kcM3NpkXRCcQ7kNvgEWgsCQ&_nc_ht=scontent-iad3-2.xx&oh=00_AfCV0iKJGOv5vyCqOv5HwUKUYv7pJEmzlRvJgCrHTFiP0A&oe=663A6EBE",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/438814064_8136515449696584_1439472736954045577_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IioZ9GygI4QQ7kNvgEqPX1q&_nc_ht=scontent-iad3-1.xx&oh=00_AfBhplb_-sz1zE1yneG37T6-RKr9YXYF4j6eni9gBpGlDA&oe=663A7DA1",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/439117950_8118693491478780_642575909827696251_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-e4EL4z1-BYQ7kNvgHyYSaU&_nc_ht=scontent-iad3-1.xx&oh=00_AfDWmgfk19Szt-D9BszCEBP1QcaTtsP3DSEs2OpED6zlRQ&oe=663A69D9",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/439188672_8118692978145498_419398960773149146_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kavO5G8bDkgQ7kNvgESInPZ&_nc_ht=scontent-iad3-1.xx&oh=00_AfCHZM4QlugFDQr2binMKYzEhJAYOEbJUks-bGHKHb9yYg&oe=663A94EB",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/435355177_8118687694812693_7881612383698937106_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0BCj4lPcwv0Q7kNvgHWiYp4&_nc_ht=scontent-iad3-1.xx&oh=00_AfALytKiCfgKVZopk97ESpq2RwAZUAN6H9K_fqoe5haHJw&oe=663A7BE8",
+  "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/435355177_8118687694812693_7881612383698937106_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0BCj4lPcwv0Q7kNvgHWiYp4&_nc_ht=scontent-iad3-1.xx&oh=00_AfALytKiCfgKVZopk97ESpq2RwAZUAN6H9K_fqoe5haHJw&oe=663A7BE8"
+],
+"ourYoutubeVideoEmbeds": [
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm",
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm",
+  "https://www.youtube.com/embed/wzYq-y69Odk?si=cU_QQ4CQNviO3FBQ",
+  "https://www.youtube.com/embed/57_oL1PTZvU?si=CeHXYYN4XwNFSblm"
+],
+"ourBandMembersPhotoPaths": [
+  "ourBandMembers/LeadSinger.jpg",
+  "ourBandMembers/Guitarist.jpg",
+  "ourBandMembers/Drummer.jpg"
+],
+"ourBandMembersNames": [
+  "Tyler",
+  "Guitarist",
+  "Kurtis Garcia"
+],
+"ourBandMembersRoles": [
+  "Lead Singer",
+  "Guitarist",
+  "Drummer"
+],
+"ourBandMembersLinks": [
+  "facebook.com/leadsingers",
+  "facebook.com/guitarists",
+  "facebook.com/drummers"
+],
+"ourPricingHours": "2 Hours",
+"ourPricingPrice": "$600",
+"ourSponsors": false,
+"ourSponsorsLogoPaths": [
+  "sponsors/logo_1.png",
+  "sponsors/logo_2.png",
+  "sponsors/logo_3.png",
+  "sponsors/logo_4.png"
+],
+"facebook": "https://facebook.com/test1",
+"instagram": "https://instagram.com/test2",
+"xtwitter": "https://twitter.com/test3",
+"google": "https://google.com/test4",
+"youtube": "https://youtube.com/test5",
+"soundcloud": "https://soundcloud.com/test6",
+"additionalSocialLinks": true,
+"additionalSocialLinksList": [
+ {
+   "link": "https://bandcamp.com",
+   "text": "Bandcamps Profile Page"
+ },
+ {
+   "link": "https://spotify.com",
+   "text": "Spotify Supported"
+ }
+]
+}
